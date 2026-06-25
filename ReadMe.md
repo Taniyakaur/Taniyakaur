@@ -9,7 +9,7 @@
 
 🚀 Currently focused on backend development, APIs, and software engineering
 
-🇩🇪 Based in Germany and open to software opportunities
+🇩🇪 Based in Frankfurt, Germany and open to software opportunities
 
 
 
