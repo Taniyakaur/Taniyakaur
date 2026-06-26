@@ -1,5 +1,5 @@
 # 🍀 About Me: 🍀
- Hiii, I'm Taniya!!! 
+ Hello, I'm Taniya!
 
 🎓 Bioinformatics Graduate (2026)
 
