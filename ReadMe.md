@@ -1,15 +1,15 @@
 # 🍀 About Me: 🍀
  Hello, I'm Taniya!
 
-🎓 Bioinformatics Graduate (2026)
+> Bioinformatics Graduate (2026)
 
-💻 Building projects with Python, Java, SQL, FastAPI, and PostgreSQL
+> Building projects with Python, Java, SQL, FastAPI, and PostgreSQL
 
-🔬 Background in computational biology, data analysis, and research
+> Background in computational biology, data analysis, and research
 
-🚀 Currently focused on backend development, APIs, and software engineering
+> Currently focused on backend development, APIs, and software engineering
 
-🇩🇪 Based in Frankfurt, Germany and open to software opportunities
+> Based in Frankfurt, Germany and open to software opportunities
 
 
 
