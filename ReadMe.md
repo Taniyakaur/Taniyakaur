@@ -1,5 +1,7 @@
 # About Me: 
  Hello, I'm Taniya!
+ 
+> Currently working on building an AI agent in Python 
 
 > Bioinformatics Graduate (2026)
 
@@ -7,7 +9,7 @@
 
 > Background in computational biology, data analysis, and research
 
-> Currently focused on backend development, APIs, and software engineering
+> Focusing on backend development (Go), APIs, and software engineering
 
 > Based in Frankfurt, Germany and open to software opportunities
 
