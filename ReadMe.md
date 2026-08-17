@@ -1,8 +1,7 @@
 # About Me: 
  Hello, I'm Taniya!
  
-> Currently working on building an AI agent in Python 
-
+> Currently working on stock price predictions with machine learning algorithms
 > Bioinformatics Graduate (2026)
 
 > Building projects with Python, Java, SQL, FastAPI, and PostgreSQL
