@@ -2,6 +2,7 @@
  Hello, I'm Taniya!
  
 > Currently working on stock price predictions with machine learning algorithms
+> The repo ELI is currently private due to some updates I'm currently working on. It will be back by next week.
 > Bioinformatics Graduate (2026)
 
 > Building projects with Python, Java, SQL, FastAPI, and PostgreSQL
