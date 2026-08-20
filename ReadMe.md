@@ -3,7 +3,7 @@
  
 > Currently working on stock price predictions with machine learning algorithms
 
-> The repo ELI is currently private due to some updates I'm currently working on. It will be back by next week.
+> The repo ELI is private as of now, due to some updates I'm currently working on. It will be back by next week.
 
 > Bioinformatics Graduate (2026)
 
