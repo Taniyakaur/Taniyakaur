@@ -11,8 +11,6 @@
 
 > Background in computational biology, data analysis, and research
 
-> Focusing on backend development (Go), APIs, and software engineering
-
 > Based in Frankfurt, Germany and open to software opportunities
 
 
