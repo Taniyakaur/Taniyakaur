@@ -1,9 +1,7 @@
 # About Me: 
  Hello, I'm Taniya!
  
-> Currently working on stock price predictions with machine learning algorithms
-
-> The repo ELI is private as of now, due to some updates I'm currently working on. It will be back by next week.
+> Currently working on Eli, an ai coding agent
 
 > Bioinformatics Graduate (2026)
 
